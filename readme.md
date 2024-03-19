@@ -1,5 +1,5 @@
 # initial configuration
-## Setting roject ID
+## Setting Project ID
 
 ```
 gcloud config set project <RROJECT_ID>
